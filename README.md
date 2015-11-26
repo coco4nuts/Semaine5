@@ -2,5 +2,4 @@
 --------------
 ###Exercice Simplonline semaine 5 : Ameliorer son CV en CSS
 
-Pour visualiser le *[Cv](http://coco4nuts.github.io/Semaine5/)*
-
+Voici un lien pour *[visualiser le Cv](http://coco4nuts.github.io/Semaine5/)*
