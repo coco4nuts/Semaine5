@@ -5,7 +5,7 @@
 /*-------------------- Page ------------------*/
 
 body {
-    background-image: url('green_cup.png');
+    background-image: url('images/green_cup.png');
     background-repeat: repeat;
     background-attachment: fixed;
     padding: 0;
@@ -23,7 +23,7 @@ body {
 header {
     box-shadow: 5px 5px 2px grey;
 
-    background-image: url('symphony.png');
+    background-image: url('images/symphony.png');
     background-repeat: repeat;
     background-attachment: fixed;
 
@@ -60,7 +60,7 @@ footer {
     height: 470px;
     box-shadow: 5px 5px 2px grey;
     
-    background-image: url('symphony.png');
+    background-image: url('images/symphony.png');
     background-repeat: repeat;
     background-attachment: fixed;
 }
