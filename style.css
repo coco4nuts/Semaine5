@@ -10,7 +10,7 @@ body {
 .conteneur {
     width: 100%;
     max-width: 960px;
-    margin:15px;
+    margin: 0px;
     padding: 10px;
 }
 
@@ -42,7 +42,7 @@ img {
 .texte {
     display: inline-block;
     width: 30%;
-    min-width: 150px;
+    min-width: 275px;
     vertical-align: top;
     padding: 10px;
     
@@ -69,6 +69,7 @@ iframe {
     margin-right: 30px;
 }
 footer p {
+    color: grey;
     font-family: Helvetica, sans-serif;
     font-size: 20px;
 }
